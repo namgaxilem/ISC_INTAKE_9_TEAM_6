@@ -8,6 +8,11 @@
 - Kiến trúc phù hợp với các môi trường lưu trữ web khác nhau - có thể dùng máy chủ hoặc đưa lên điện toán đám mây.
 - Giao diện thân thiện với người dùng
 
+## Môi trường phát triển dự án: Hệ điều hành, ngôn ngữ lập trình, IDE,...
+- Hệ điều hành: Windows 10.
+- Ngôn ngữ front-end: html, css, javascript, bootstrap, angular js.
+- IDE: Atom, Eclipse.
+
 ## Bản quyền
 
 GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
