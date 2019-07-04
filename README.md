@@ -14,7 +14,12 @@
 - Ngôn ngữ front-end: html, css, javascript, bootstrap, angular js.
 - IDE: Atom, Eclipse.
 
-
+## Danh sách các thành viên
+- Nguyễn Đức Nam *leader*
+- Nguyễn Ngọc Quý
+- Nguyễn Chế Linh
+- Phạm Phú Thịnh
+- Trần Vĩnh Phước
 
 ## Bản quyền
 
