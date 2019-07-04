@@ -14,6 +14,8 @@
 - Ngôn ngữ front-end: html, css, javascript, bootstrap, angular js.
 - IDE: Atom, Eclipse.
 
+
+
 ## Bản quyền
 
 GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
