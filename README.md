@@ -5,7 +5,7 @@
 *Mục tiêu*
 - Xây dựng hệ thống ứng dụng web đáp ứng nhu cầu thực tế quản lý sinh viên tại trường học.
 - Chịu được tải lớn.
-- KỨng dụng có thể chạy trên các trình duyệt phổ biến hiện nay như Chrome, Edge, Safari, Cốc cốc, Firefox...
+- Ứng dụng có thể chạy trên các trình duyệt phổ biến hiện nay như Chrome, Edge, Safari, Cốc cốc, Firefox...
 - Giao diện trang web tương thích trên mọi thiết bị như PC, laptop, điện thoại và máy tính bảng.
 - Giao diện web được thiết kế chuẩn UI/UX.
 
